@@ -1,0 +1,17 @@
+# Build output
+out/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data
+/data/
+
+# Logs
+*.log
